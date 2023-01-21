@@ -19,3 +19,7 @@ Does the extra amount that is recovered at the higher strategy level exceed the 
 
 ## Conclusion
 Whether I use a wide (\$900 to \$1100) or narrower window (\$950 to \$1050), the incremental recovery amount at the higher recovery strategy is much greater than the \$50 per customer it costs for the higher recovery strategy.  So I conclude that the higher recovery strategy is worth the extra cost of \$50 per customer.
+
+## Credits
+The dataset can be found on Datacamp.com
+Project was completed without any assistance, hints, or help from any entity or person.
