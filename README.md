@@ -22,4 +22,5 @@ Whether I use a wide (\$900 to \$1100) or narrower window (\$950 to \$1050), the
 
 ## Credits
 The dataset can be found on Datacamp.com
-Project was completed without any assistance, hints, or help from any entity or person.
+
+**Project was completed without any assistance, hints, or help from any entity or person.**
